@@ -1,2 +1,2 @@
 # C-CLI-calculator
-Просто калькулятор под C++ для windows CLI
+Просто CLI-калькулятор под C++ для windows
